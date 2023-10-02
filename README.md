@@ -33,10 +33,11 @@
 <h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="ashrafkhan9040@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="www.linkedin.com/in/mohammed-ashraf-khan-93302027a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="[www.linkedin.com/in/mohammed-ashraf-khan-93302027a](https://www.linkedin.com/in/mohammed-ashraf-khan-93302027a/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 <!-- GitHub Activity Statistics -->
 <h3 align="center">GitHub Activity Statistics:</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashrafkhan10&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafkhan10" /> </p>
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashrafkhan10&show_icons=true&theme=dark&hide_border=true" />
 </p>
@@ -55,5 +56,7 @@
 
 
 <!-- Footer -->
-<p align="center">Open to collaborations and opportunities. Feel free to reach out!</p>
+<p align="center">Open to collaborations and opportunities. Feel free to reach out and connect!</p>
+<!-- Footer -->
+<p align="center">Thanks for visiting my profile! </p>
 
