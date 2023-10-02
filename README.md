@@ -1,7 +1,7 @@
 <!-- Your GitHub Profile README -->
 
 <!-- Header -->
-<h1 align="center">Hello, I'm Ashraf Khan 👋</h1>
+<h1 align="center">Hello, I'm Mohammed Ashraf Khan 👋</h1>
 
 <!-- Introduction -->
 <h3 align="center">About Me:</h3>
