@@ -1,4 +1,7 @@
 <!-- Your GitHub Profile README -->
+<p align="center">
+  <img src="https://blog.imarticus.org/wp-content/uploads/2019/05/daonline.gif" alt="Data Science GIF" width="600">
+</p>
 
 <!-- Header -->
 <h1 align="center">Hello, I'm Mohammed Ashraf Khan 👋</h1>
