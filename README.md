@@ -11,7 +11,7 @@
 <h3 align="center">Technologies I Work With:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-276DC3?style=flat&logo=r&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-276DC3?style=flat&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 </p>
 
