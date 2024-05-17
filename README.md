@@ -9,14 +9,10 @@
 <!-- Introduction -->
 <h3 align="center">About Me:</h3>
 <p align="center">
-  📊 As an aspiring Data Scientist, I'm passionate about extracting insights from data and solving real-world problems through machine learning and NLP.
-  <br>
-  🚀 I love using Python and SQL to analyze data, create predictive models, and build data-driven solutions.
-  <br>
-  📈 Data visualization with Tableau and Power BI is my way of making data come to life.
-  <br>
-  🌱 Always eager to learn and explore the ever-evolving field of data science.
-  <br>
+ I'm Mohammed Ashraf Khan, a passionate Data Scientist with a Master's degree in Data Science. My expertise lies in data analysis, machine learning, and data visualization. I'm proficient in Python, SQL, and a variety of tools such as Tableau and Power BI. I hold an AWS Certified Cloud Practitioner certification, demonstrating my skills in cloud technologies.
+<br>
+I love solving complex problems and uncovering actionable insights from data. I'm always eager to learn and explore new technologies, and I enjoy collaborating on impactful, data-driven projects.
+<br>
 </p>
 
 
@@ -30,6 +26,8 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white" alt="Power BI">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6E00?style=flat" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Natural%20Language%20Processing-00BFFF?style=flat" alt="NLP">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+
 </p>
 
 <!-- Contact and Connect -->
